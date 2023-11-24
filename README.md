@@ -44,9 +44,13 @@ in tne initial data preperation phase,we performed the follwing task:
 EDA involved exploring the reviews,rating data to answer the key question
 
 1)How attrition affect by gender?
+
 2)find out which department cause more attrition?
+
 3)Does attrition impact work of department?
+
 4)Is income is the main factor towards attrition?
+
 5)what is the effect of age on attrition?
   
 ### Conclusion
